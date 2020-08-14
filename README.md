@@ -1,5 +1,5 @@
 # Spacemacs-config
-My [[https://github.com/syl20bnr/spacemacs#fork-destination-box][spacemacs]] configuration for [[https://orgmode.org/][org-mode]].  
+My [spacemacs](https://github.com/syl20bnr/spacemacs#fork-destination-box) configuration for [org-mode](https://orgmode.org/).  
 
 ## Updates
 #### 14/08/2020
