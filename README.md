@@ -1,5 +1,5 @@
 # Spacemacs-config
-My spacemacs configuration that focuses on org-mode. 
+My [[https://github.com/syl20bnr/spacemacs#fork-destination-box][spacemacs]] configuration for [[https://orgmode.org/][org-mode]].  
 
 ## Updates
 #### 14/08/2020
