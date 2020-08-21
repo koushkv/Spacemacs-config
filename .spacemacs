@@ -338,12 +338,12 @@ you should place your code here."
      ("CANCELLED" . "Tomato"))))
  '(org-agenda-files
    (quote
-    ("~/Dropbox/Orgfiles/Org/Routine.org" "~/Dropbox/Orgfiles/Org/TODO.org")))
+    ("~/Dropbox/Orgfiles/Org/DailyTrack.org" "~/Dropbox/Orgfiles/Org/Routine.org" "~/Dropbox/Orgfiles/Org/TODO.org")))
  '(org-capture-templates
    (quote
     (("p" "Private templates")
      ("pt" "New entry" entry
-      (file "~/Dropbox/Orgfiles/Org/DailyTracker.org")
+      (file "~/Dropbox/Orgfiles/Org/DailyTrack.org")
       (file "~/Dropbox/Orgfiles/Org/dailytracker.txt")
       :empty-lines-before 1))))
  '(package-selected-packages
